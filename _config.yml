@@ -5,7 +5,8 @@
 # Site
 title: Bnightowl
 subtitle: 一切伟大的行动和思想，都有一个微不足道的开始。
-description: Nightowl'blog
+description: Nightowl'blog Web前端开发
+keywords: 前端,Web前端开发,html5,css,javascript
 author: Nightowl
 email: 834490038@qq.com
 language: zh-CN
@@ -62,7 +63,7 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-disqus_shortname: 尹晶晶
+#disqus_shortname: 尹晶晶
 
 
 # Extensions
